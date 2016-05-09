@@ -36,3 +36,5 @@ class Velvet {
 }
 
 module.exports = new Velvet();
+
+module.exports.Velvet = Velvet;
