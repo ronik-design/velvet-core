@@ -1,6 +1,6 @@
 {
   "name": "velvet-core",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Core classes for the Velvet static-site generator.",
   "main": "index.js",
   "scripts": {
