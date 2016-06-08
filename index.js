@@ -11,7 +11,6 @@ class Velvet {
     this.site = this.autoload('./lib/site');
     this.hooks = this.autoload('./lib/hooks');
     this.plugins = this.autoload('./lib/plugins');
-    this.templateCache = this.autoload('./lib/template-cache');
     this.converter = this.autoload('./lib/converter');
 
     this.Data = require('./lib/data');
