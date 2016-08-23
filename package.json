@@ -24,8 +24,11 @@
   "homepage": "https://github.com/ronik-design/velvet-core#readme",
   "devDependencies": {
     "babel-eslint": "^6.0.4",
-    "eslint": "^2.9.0",
-    "eslint-config-ronik": "^1.0.3"
+    "eslint": "^3.3.0",
+    "eslint-config-ronik": "^1.4.0",
+    "eslint-plugin-babel": "^3.3.0",
+    "eslint-plugin-filenames": "^1.0.0",
+    "eslint-plugin-import": "^1.14.0"    
   },
   "eslintConfig": {
     "extends": "ronik",
